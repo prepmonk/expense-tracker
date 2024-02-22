@@ -1,14 +1,14 @@
 # expense-tracker
 
-This template should help get you started developing with Vue 3 in Vite.
+## Description
 
-## Recommended IDE Setup
+A Simple Web Page manage expenses. This will help you manage your expenses and show your balance, split of income and expenses and History of all the expenses. You can also add new transactions in a simple two fields description and amount.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Screenshot
 
-## Customize configuration
+![alt text](screenshot.png 'Screenshot')
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+# Development Setup
 
 ## Project Setup
 
